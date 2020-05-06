@@ -20,6 +20,8 @@ header{
   border-bottom: 1px rgba(151,151,151,0.5) solid;
   background: white;
   z-index: 1000;
+  top: 0;
+  left: 0;
 }
 
 .head-dx{
@@ -39,7 +41,6 @@ a{
 
 main{
   padding-top: 140px;
-  margin-bottom: 20px;
 }
 
 
@@ -53,13 +54,13 @@ main{
   font-size: 23px;
   font-weight: 600;
   color: #3c4043;
-  line-height: 1.4;
+  line-height: 1.5;
   margin-bottom: 30px;
 }
 
 .risposta{
   font-size: 15px;
-  line-height: 1.4;
+  line-height: 1.5;
   color: #3c4043;
 }
 
