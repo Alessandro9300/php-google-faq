@@ -29,14 +29,15 @@
       <div class="container">
 
         <div class="nrFaqs">
+
           <?php
+
+            echo "Ci sono in totale " . sizeof($faqs) . " domande. <br>" ;
 
             nrFaq($faqs);
 
            ?>
         </div>
-
-
 
 
         <?php
